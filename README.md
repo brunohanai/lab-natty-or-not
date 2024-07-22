@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Versão internacional do meu canal no YouTube
 
-## 🚀 Introdução
+## Descrição
 
-> Woooow! Look at this 👀
+**Prova de Conceito:** seria possível criar uma versão internacional do meu [canal no YouTube](https://www.youtube.com/c/formulaexcel/videos)?
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Por ser um canal de tecnologia (ensino de Excel), é aceitável que somente a tela do computador seja exibida, ou seja, o áudio é o principal. Seria possível e viável converter os áudios dos vídeos, que estão em português, para inglês?
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## Ferramentas utilizadas
 
-### Objetivos
+- **[Dictation](https://dictation.io)** para transcrever o áudio (speech-to-text);
+- **[ChatGPT](https://chatgpt.com.com)** para traduzir o texto de português para inglês;
+- **[Resemble](https://resemble.ai)** para gerar o áudio a partir de um texto (text-to-speech) com vozes personalizadas.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## Material base
 
-### Template
+O áudio dos primeiros 30 segundos desse vídeo: https://www.youtube.com/watch?v=ab_6aTCiu1Y&t=31s
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+## Resultado
 
-## 📒 Descrição
-Breve descrição do seu projeto
+O áudio em inglês: [Justin (Legacy)-2024_07_22-15.wav](./Justin%20(Legacy)-2024_07_22-15.wav)
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## Conclusão
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O resultado do teste foi positivo: com as ferramentas disponíveis, é possível fazer esse trabalho com muita rapidez e qualidade.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Há algum tempo (2020), eu gravei um treinamento para a empresa em que trabalho, que foi amplamente utilizado. Surgiu então a necessidade inserir legendas em inglês e espanhol nos vídeos, para ampliar a distribuição. Lembro que 2 pessoas tiveram que trabalhar nisso por 1+ mês. Hoje em dia, esse trabalho seria mais rápido, com qualidade superior (_com todo o respeito a quem realizou aquele trabalho_) e com menor custo.
